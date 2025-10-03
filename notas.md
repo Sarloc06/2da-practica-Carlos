@@ -5,3 +5,6 @@ Nuevas asignaturas: programación, base de datos, entornos de desrrollo, sistema
 - Terminar práctica de Git
 - Resolver conflictos
 - Subir cambios a GitHub
+
+# Primera modificación
+- me gusta la música
